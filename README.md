@@ -1,0 +1,2 @@
+# html_color_universal_design_sample
+カラーユニバーサルデザインの色サンプルです。
